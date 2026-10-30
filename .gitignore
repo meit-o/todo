@@ -1,6 +1,6 @@
-todo/**/node_modules/
-todo/**/dist/
-todo/**/.angular/
-todo/**/coverage/
-todo/**/.env
-todo/**/.env.*
+**/node_modules/
+**/dist/
+**/.angular/
+**/coverage/
+**/.env
+**/.env.*
